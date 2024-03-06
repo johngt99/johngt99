@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently looking to work
+🔭I'm currently looking to work
 
 
 ## 🌐 Socials:
@@ -12,5 +12,5 @@ I'm currently looking to work
 ![](https://github-readme-streak-stats.herokuapp.com/?user=johngt99&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=johngt99&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=johngt99&color=FAC151)
+![👁️ Views](https://komarev.com/ghpvc/?username=johngt99&color=FAC151)
 
