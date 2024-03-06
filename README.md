@@ -12,5 +12,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=johngt99&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=johngt99&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
-![👁️ Views](https://komarev.com/ghpvc/?username=johngt99&color=FAC151)
+![Profile Views](https://komarev.com/ghpvc/?username=johngt99&color=FAC151)
 
